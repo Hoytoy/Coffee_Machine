@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account and its owner" />
+            <option value="$PROJECT_DIR$/Problems/Accounts" />
+            <option value="$PROJECT_DIR$/Problems/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Balance management" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Call me awesome" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (2)" />
+            <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Create a full name" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Days of week" />
+            <option value="$PROJECT_DIR$/Problems/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Problems/Division" />
+            <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method (1)" />
+            <option value="$PROJECT_DIR$/Problems/Geometric cube" />
+            <option value="$PROJECT_DIR$/Problems/In a box" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems/Print  Hello, Java_" />
+            <option value="$PROJECT_DIR$/Problems/Print  We are robots_" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Raise to the power" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Robot control" />
+            <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
+            <option value="$PROJECT_DIR$/Problems/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
+            <option value="$PROJECT_DIR$/Problems/User" />
+            <option value="$PROJECT_DIR$/Problems/Vowel or not" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
